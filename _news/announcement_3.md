@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended the [IDMS](https://www.fields.utoronto.ca/news/IDMS-call-proposals-now-open) summer school on commutative algebra at Dalhousie University
+Attended the [IDMS](https://www.fields.utoronto.ca/news/IDMS-call-proposals-now-open) summer school on commutative algebra at [Dalhousie University](https://www.dal.ca/faculty/science/math-stats.html)
