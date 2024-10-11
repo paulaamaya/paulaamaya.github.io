@@ -18,7 +18,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Iformation Technology Analyst
+    - title: Information Technology Analyst
       institution: River Valley School, Canada
       year: 2024
       description:
@@ -26,7 +26,7 @@
         - Research, analyze, and distill complex technical concepts into compelling and accessible narratives.
         - Create data visualizations for publication using MATLAB and Python.
 
-    - title: Embedded C/C++ Developer
+    - title: Embedded Systems Developer
       institution: University of Calgary Solar Car, Canada
       year: 2023
       description:
