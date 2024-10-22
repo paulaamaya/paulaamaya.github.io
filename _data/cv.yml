@@ -22,25 +22,25 @@
       institution: River Valley School, Canada
       year: 2024
       description:
-        - Compose articles covering math and computer science.
-        - Research, analyze, and distill complex technical concepts into compelling and accessible narratives.
-        - Create data visualizations for publication using MATLAB and Python.
+        - Led the implementation of Jira Service Management (JSM) from proposal development to staff-wide training.
+        - Developed custom data integration middleware for real-time reporting between PowerSchool SIS and in-house dashboards.
+        - Automated staff onboarding processes, reducing manual workload and ensuring consistent technology setup.
 
     - title: Embedded Systems Developer
       institution: University of Calgary Solar Car, Canada
       year: 2023
       description:
-        - Design, implement, and optimize software solutions for electronic control systems using a C/C++ development environment.
-        - Participate in the development of a custom master battery management system.
-        - Research and write documentation on the battery management system.
+        - Collaborated with developers and engineers to design software solutions for electronic control systems using C/C++.
+        - Researched the Orion Battery Management System (BMS) and its integration capabilities.
+        - Developed detailed documentation on BMS functionality and best practices for data integration into the vehicle's analytics ecosystem.
 
     - title: Risk Strategy Intern
       institution: Wave Financial, Canada
       year: 2022
       description:
         - Planned, developed, and delivered database documentation for tables stored in Amazon Redshift.
-        - Developed relational database functions in SQL.
-        - Created and deployed a real-time analytics dashboard using Python, Numpy, and Pyplot.
+        - Wrote SQL functions to streamline data analysis and enhance reporting accuracy.
+        - Built and deployed a real-time analytics dashboard with Python, Numpy, and Pyplot, tracking key business metrics.
 
 - title: Skills
   type: list
@@ -48,3 +48,11 @@
     - <u>Programming Languages:</u> Python, MATLAB, C/C++, SQL, HTML/CSS, JavaScript.
     - <u>Libraries:</u> Numpy, Matplotlib, Pandas, Pyplot.
     - <u>Tools/Technologies:</u> Linux (Arch), Git, Jira.
+
+
+- title: Awards
+  type: time_table
+  contents:
+    - title: Diversity in Mathematical Sciences
+      institution: The Fields Institute for Research in Mathematical Sciences
+      year: 2024

@@ -15,10 +15,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an undergraduate student at the University of Calgary with an interest in scientific computing, specifically the development and analysis of numerical algorithms for computational mathematics.
+I am an undergraduate student at the University of Calgary with an interest in scientific computing, particularly the development and analysis of numerical algorithms for computational mathematics.
 
-Currently, I am focused on programming languages and information theory. In my [projects](/projects), I aim to transform theoretical concepts into practical tools.
+In my [projects](/projects), I aim to translate theoretical concepts into practical tools. Currently my focus is programming languages and information theory.  Some of the things I'm currently working on include:
 
-<!-- Outside of academic pursuits, I work with the embedded systems team at the [University of Calgary Solar Car](https://calgarysolarcar.ca/) and share insights on technical topics at [The Dirac Dossier](). -->
+- Project I
+- Project II
+- Project III
 
-I am always looking for collaboration with academic and industry partners. Please feel free to contact me through the provided channels below.
+I am always open to collaboration with academic and industry partners. Feel free to contact me through the provided channels below.

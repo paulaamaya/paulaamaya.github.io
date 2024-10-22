@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed a 4-month internship at [Wave Financial](https://www.waveapps.com/) as a Risk Strategy Intern.
+Completed a 4-month internship at [Wave Financial](https://www.waveapps.com/) as a Risk Strategy Intern

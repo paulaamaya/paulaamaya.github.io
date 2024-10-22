@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed a 4-month internship at [River Valley School](https://rivervalleyschool.ca/) as an Information Technology Assistant
+Completed a 4-month internship at [River Valley School](https://rivervalleyschool.ca/) as an Information Technology Analyst

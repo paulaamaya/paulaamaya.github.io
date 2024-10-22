@@ -7,4 +7,4 @@ nav: true
 nav_order: 4
 ---
 
-Stanley-Reisner Theory
+[Stanley-Reisner Theory](/assets/pdf/example_pdf.pdf)
