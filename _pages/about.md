@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 I am an undergraduate student at the University of Calgary with an interest in scientific computing, particularly the development and analysis of numerical algorithms for computational mathematics.
 
-In my [projects](/projects), I aim to translate theoretical concepts into practical tools. Currently my focus is programming languages and information theory.  Some of the things I'm currently working on include:
+In my [projects](/projects), I aim to translate theoretical concepts into practical tools. Currently my focus is programming languages and numerical analysis.  Some of the things I am currently working on include:
 
 - Project I
 - Project II
