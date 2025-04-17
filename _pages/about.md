@@ -30,6 +30,6 @@ In my [projects](/projects), I aim to turn theoretical concepts into practical t
 
 - **Federated Intrusion Detection System** – A privacy-preserving approach to collaborative threat detection.  
 - **Log-Based Anomaly Detection Tool** – A command-line utility for scanning system logs and identifying suspicious activity.  
-- **ML-Guided Numerical Integration for Chaotic Systems** – Research with [Dr. Adam Runions](https://scholar.google.com/citations?user=LvaJVncAAAAJ&hl=en) on using ML to optimize numerical integrators for physical simulations.
+- **Guided Numerical Integration for Chaotic Systems** – Research with [Dr. Adam Runions](https://scholar.google.com/citations?user=LvaJVncAAAAJ&hl=en) on using ML to optimize numerical integrators for physical simulations.
 
-I’m always open to collaboration - feel free to get in touch. 
+I’m always open to collaboration - please feel free to contact me using one of the channels below. 
