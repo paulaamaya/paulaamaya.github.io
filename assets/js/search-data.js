@@ -30,12 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-completed-a-4-month-internship-at-wave-financial-as-a-risk-strategy-intern",
+        },{id: "news-completed-a-4-month-internship-at-wave-financial-as-a-risk-strategy-intern",
           title: 'Completed a 4-month internship at Wave Financial as a Risk Strategy Intern.',
           description: "",
           section: "News",},{id: "news-joined-the-university-of-calgary-solar-car-team-as-an-embedded-systems-developer",
