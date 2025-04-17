@@ -440,16 +440,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-completed-a-4-month-internship-at-wave-financial-as-a-risk-strategy-intern",
+          title: 'Completed a 4-month internship at Wave Financial as a Risk Strategy Intern.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-joined-the-university-of-calgary-solar-car-team-as-an-embedded-systems-developer",
+          title: 'Joined the University of Calgary Solar Car team as an embedded systems developer....',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-attended-the-idms-summer-school-on-commutative-algebra-at-dalhousie-university",
+          title: 'Attended the IDMS summer school on commutative algebra at Dalhousie University.',
+          description: "",
+          section: "News",},{id: "news-completed-a-4-month-internship-at-river-valley-school-as-an-information-technology-analyst",
+          title: 'Completed a 4-month internship at River Valley School as an Information Technology Analyst....',
+          description: "",
+          section: "News",},{id: "news-received-the-nserc-research-award-for-work-on-machine-learning-approaches-to-numerical-integration-in-dynamical-systems",
+          title: 'Received the NSERC Research Award for work on machine learning approaches to numerical...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
