@@ -83,20 +83,20 @@
       "name": "Languages",
       "icon": "fa-solid fa-code",
       "keywords": [
-        "matplotlib",
+        "C/C++",
         "Java",
         "Python",
         "SQL"
       ]
     },
     {
-      "name": "Libraries",
-      "icon": "fa-solid fa-cubes",
+      "name": "Tools",
+      "icon": "fa-solid fa-code-branch",
       "keywords": [
-        "C/C++",
-        "Java",
-        "Python",
-        "SQL"
+        "Docker",
+        "Git",
+        "Jira",
+        "OpenGL"
       ]
     }
   ],
