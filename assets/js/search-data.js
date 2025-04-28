@@ -16,20 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-blog",
-          title: "Blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
         },{id: "news-completed-a-4-month-internship-at-wave-financial-as-a-risk-strategy-intern",
           title: 'Completed a 4-month internship at Wave Financial as a Risk Strategy Intern.',
           description: "",
