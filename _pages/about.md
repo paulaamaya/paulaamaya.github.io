@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 
 profile:
@@ -23,8 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
-I am a developer working at the intersection of machine learning and cybersecurity, with a focus on building secure and intelligent systems. I also explore computer graphics as a creative way to apply the math behind visual computing.
+I am a software engineer working at the intersection of machine learning and cybersecurity, with a focus on building secure and intelligent systems. I also explore computer graphics as a creative way to apply the math behind visual computing.
 
 In my [projects](/projects), I aim to turn theoretical concepts into practical tools. Some of the things I’m working on include:
 
@@ -32,4 +31,4 @@ In my [projects](/projects), I aim to turn theoretical concepts into practical t
 - **Log-Based Anomaly Detection Tool** – A command-line utility for scanning system logs and identifying suspicious activity.  
 - **Guided Numerical Integration for Chaotic Systems** – Research with [Dr. Adam Runions](https://scholar.google.com/citations?user=LvaJVncAAAAJ&hl=en) on using ML to optimize numerical integrators for physical simulations.
 
-I’m always open to collaboration - please feel free to contact me using one of the channels below. 
+If you're interested in collaborating, please reach out via the contact information below.
