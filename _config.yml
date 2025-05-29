@@ -7,11 +7,10 @@ first_name: Paula
 middle_name: 
 last_name: Amaya
 contact_note: >
-  The best way to reach me is through email at hello [at] paulaamaya [dot] com.
+  The best way to contact me is through email at hello [at] paulaamaya [dot] com.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Paula Amaya's personal website.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: paula, amaya, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -57,8 +56,6 @@ bib_search: true
 # Dimensions
 max_width: 930px
 
-# TODO: add layout settings (single page vs. multi-page)
-
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
@@ -87,8 +84,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: codebreach 
+blog_description: snippets from the dev den 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -200,7 +197,6 @@ exclude:
   - _pages/repositories.md
   - _pages/teaching.md
   - _pages/projects.md
-  - _pages/blog.md
   - _books/
 keep_files:
   - CNAME
