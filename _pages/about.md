@@ -23,12 +23,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a software engineer working at the intersection of machine learning and cybersecurity, with a focus on building secure and intelligent systems. I also explore computer graphics as a creative way to apply the math behind visual computing.
+I am a software engineer working at the intersection of machine learning and numerical computing, with a focus on building high-performance and intelligent systems. I also explore computer graphics as a creative way to apply the math behind visual computing.
 
 In my [projects](/projects), I aim to turn theoretical concepts into practical tools. Some of the things I’m working on include:
 
-- **Federated Intrusion Detection System** – A privacy-preserving approach to collaborative threat detection.  
-- **Log-Based Anomaly Detection Tool** – A command-line utility for scanning system logs and identifying suspicious activity.  
+- **Financial Fraud Detection Tool** – A predictive risk assessment model engineered to handle high-volume datasets with class imbalance.  
+- **Premier League xG Engine** – A spatial modeling tool that translates coordinate data into real-time inference scores.
 - **Guided Numerical Integration for Chaotic Systems** – Research with [Dr. Adam Runions](https://scholar.google.com/citations?user=LvaJVncAAAAJ&hl=en) on using ML to optimize numerical integrators for physical simulations.
 
 If you're interested in collaborating, please reach out via the contact information below.
